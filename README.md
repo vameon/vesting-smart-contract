@@ -1,1 +1,1 @@
-# vesting-smart-contract
+# Vesting pool smart contract for allocation of VON tokens
